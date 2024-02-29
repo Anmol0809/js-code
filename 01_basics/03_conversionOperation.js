@@ -31,5 +31,30 @@ let someNumber = 33;
 
 let stringNumber = String(someNumber);
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+//********** Operations ********** */
+
+let value = 3;
+let negValue = -value;
+
+// console.log(negValue);
+
+// console.log(2+3);   additom
+// console.log(2-3);    subtraction
+// console.log(2/3);    divide
+// console.log(2%3);     remainder
+// console.log(2*3);     multipication
+// console.log(2**3);    power
+
+let firstName = "Anmol";
+let lastName = " Kumar"
+
+// console.log(firstName  + lastName);
+
+//  console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1"+"2");
+// console.log(1 + 1 + "2");
+// console.log("1" + 1 + 1);
